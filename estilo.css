@@ -1,0 +1,8 @@
+body{
+    background-color: aquamarine; /* color de fondo por defecto */
+    color: #343a40; /* color de texto por defecto */
+}
+body.dark-mode {
+    background-color: #212529; /* color de fondo para el modo oscuro */
+    color: #f8f9fa; /* color de texto para el modo oscuro */
+}
